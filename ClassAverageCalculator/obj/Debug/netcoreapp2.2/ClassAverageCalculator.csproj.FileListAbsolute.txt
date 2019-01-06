@@ -1,0 +1,11 @@
+C:\Users\Abraham\source\repos\ClassAverageCalculator\ClassAverageCalculator\bin\Debug\netcoreapp2.2\ClassAverageCalculator.deps.json
+C:\Users\Abraham\source\repos\ClassAverageCalculator\ClassAverageCalculator\bin\Debug\netcoreapp2.2\ClassAverageCalculator.runtimeconfig.json
+C:\Users\Abraham\source\repos\ClassAverageCalculator\ClassAverageCalculator\bin\Debug\netcoreapp2.2\ClassAverageCalculator.runtimeconfig.dev.json
+C:\Users\Abraham\source\repos\ClassAverageCalculator\ClassAverageCalculator\bin\Debug\netcoreapp2.2\ClassAverageCalculator.dll
+C:\Users\Abraham\source\repos\ClassAverageCalculator\ClassAverageCalculator\bin\Debug\netcoreapp2.2\ClassAverageCalculator.pdb
+C:\Users\Abraham\source\repos\ClassAverageCalculator\ClassAverageCalculator\obj\Debug\netcoreapp2.2\ClassAverageCalculator.csprojAssemblyReference.cache
+C:\Users\Abraham\source\repos\ClassAverageCalculator\ClassAverageCalculator\obj\Debug\netcoreapp2.2\ClassAverageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\ClassAverageCalculator\ClassAverageCalculator\obj\Debug\netcoreapp2.2\ClassAverageCalculator.AssemblyInfoInputs.cache
+C:\Users\Abraham\source\repos\ClassAverageCalculator\ClassAverageCalculator\obj\Debug\netcoreapp2.2\ClassAverageCalculator.AssemblyInfo.cs
+C:\Users\Abraham\source\repos\ClassAverageCalculator\ClassAverageCalculator\obj\Debug\netcoreapp2.2\ClassAverageCalculator.dll
+C:\Users\Abraham\source\repos\ClassAverageCalculator\ClassAverageCalculator\obj\Debug\netcoreapp2.2\ClassAverageCalculator.pdb
